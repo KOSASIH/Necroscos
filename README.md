@@ -1,4 +1,5 @@
 [![DeepSource](https://deepsource.io/gh/KOSASIH/Necroscos.svg/?label=active+issues&show_trend=true&token=Pg9VaGfDckJDFE5sEp_R6dMb)](https://deepsource.io/gh/KOSASIH/Necroscos/?ref=repository-badge)
+[![CircleCI](https://circleci.com/gh/KOSASIH/Necroscos/tree/main.svg?style=svg)](https://circleci.com/gh/KOSASIH/Necroscos/tree/main)
 
 # Necroscos
 Center for research, creation, development, and management of technological innovations and urban planning on Planet Mars
