@@ -1,3 +1,14 @@
+[![PSScriptAnalyzer](https://github.com/KOSASIH/Necroscos/actions/workflows/powershell.yml/badge.svg?branch=main)](https://github.com/KOSASIH/Necroscos/actions/workflows/powershell.yml)
+[![Codacy Security Scan](https://github.com/KOSASIH/Necroscos/actions/workflows/codacy.yml/badge.svg?branch=main)](https://github.com/KOSASIH/Necroscos/actions/workflows/codacy.yml)
+[![DeepSource](https://deepsource.io/gh/KOSASIH/Necroscos.svg/?label=active+issues&show_trend=true&token=Pg9VaGfDckJDFE5sEp_R6dMb)](https://deepsource.io/gh/KOSASIH/Necroscos/?ref=repository-badge)
+[![CircleCI](https://circleci.com/gh/KOSASIH/Necroscos/tree/main.svg?style=svg)](https://circleci.com/gh/KOSASIH/Necroscos/tree/main)
+[![Documentation Status](https://readthedocs.org/projects/necroscos/badge/?version=latest)](https://necroscos.readthedocs.io/en/latest/?badge=latest)
+[![GitHub issues](https://img.shields.io/github/issues/KOSASIH/Necroscos)](https://github.com/KOSASIH/Necroscos/issues)
+[![GitHub forks](https://img.shields.io/github/forks/KOSASIH/Necroscos)](https://github.com/KOSASIH/Necroscos/network)
+[![GitHub stars](https://img.shields.io/github/stars/KOSASIH/Necroscos)](https://github.com/KOSASIH/Necroscos/stargazers)
+[![GitHub license](https://img.shields.io/github/license/KOSASIH/Necroscos)](https://github.com/KOSASIH/Necroscos/blob/main/LICENSE)
+[![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fmobile.twitter.com%2FKosasihg88G)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FKOSASIH%2FNecroscos)
+
 # Welcome to Necroscos Pages
 Center for research, creation, development, and management of technological innovations and urban planning on Planet Mars
 
