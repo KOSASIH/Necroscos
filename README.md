@@ -6,7 +6,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/KOSASIH/Necroscos)](https://github.com/KOSASIH/Necroscos/stargazers)
 [![GitHub license](https://img.shields.io/github/license/KOSASIH/Necroscos)](https://github.com/KOSASIH/Necroscos/blob/main/LICENSE)
 [![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fmobile.twitter.com%2FKosasihg88G)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FKOSASIH%2FNecroscos)
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KOSASIH&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 # Necroscos
 Center for research, creation, development, and management of technological innovations and urban planning on Planet Mars
