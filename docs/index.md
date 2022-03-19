@@ -1,4 +1,4 @@
-# Welcome to Necronos Pages
+# Welcome to Necroscos Pages
 Center for research, creation, development, and management of technological innovations and urban planning on Planet Mars
 
 #  Who we are
