@@ -1,6 +1,7 @@
 [![DeepSource](https://deepsource.io/gh/KOSASIH/Necroscos.svg/?label=active+issues&show_trend=true&token=Pg9VaGfDckJDFE5sEp_R6dMb)](https://deepsource.io/gh/KOSASIH/Necroscos/?ref=repository-badge)
 [![CircleCI](https://circleci.com/gh/KOSASIH/Necroscos/tree/main.svg?style=svg)](https://circleci.com/gh/KOSASIH/Necroscos/tree/main)
 [![Documentation Status](https://readthedocs.org/projects/necroscos/badge/?version=latest)](https://necroscos.readthedocs.io/en/latest/?badge=latest)
+[![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fmobile.twitter.com%2FKosasihg88G)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FKOSASIH%2FNecroscos)
 
 
 # Necroscos
