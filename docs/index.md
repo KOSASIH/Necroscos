@@ -5,7 +5,7 @@ Center for research, creation, development, and management of technological inno
 Necroscos Foundation is a non-profit organization that promotes Science, Technology and Architecture. Necroscos Foundation will introduce to Planet Mars the most advanced technologies through developing new cities and conducting various programs that will bring knowledge, wealth, and prosperity to its.
 Necroscos is an innovative, dynamic, and high tech center which specializes in research, creation, development, and management of technological innovations and urban planning on Planet Mars. 
 
-[https://data.world/kosasih/necroscos]
+https://data.world/kosasih/necroscos
 
 # Motto
 We are Necroscos! We do not just dream, we create!
