@@ -1,3 +1,4 @@
+[![Codacy Security Scan](https://github.com/KOSASIH/Necroscos/actions/workflows/codacy.yml/badge.svg?branch=main)](https://github.com/KOSASIH/Necroscos/actions/workflows/codacy.yml)
 [![DeepSource](https://deepsource.io/gh/KOSASIH/Necroscos.svg/?label=active+issues&show_trend=true&token=Pg9VaGfDckJDFE5sEp_R6dMb)](https://deepsource.io/gh/KOSASIH/Necroscos/?ref=repository-badge)
 [![CircleCI](https://circleci.com/gh/KOSASIH/Necroscos/tree/main.svg?style=svg)](https://circleci.com/gh/KOSASIH/Necroscos/tree/main)
 [![Documentation Status](https://readthedocs.org/projects/necroscos/badge/?version=latest)](https://necroscos.readthedocs.io/en/latest/?badge=latest)
